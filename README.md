@@ -1,7 +1,8 @@
 # lacquer-3d-virtual-gallery
 
 1. CẤU TRÚC THƯ MỤC
-   📂 BlenderFiles/ (hoặc Source/)
+
+📂 BlenderFiles/ (hoặc Source/)
 
 - Dùng để: Chứa các file gốc .blend mà bạn đang làm dở.
 - Tại sao cần: Để tách biệt file đang chỉnh sửa với các file thành phẩm, tránh bị rối mắt khi dự án có hàng chục model khác nhau.
